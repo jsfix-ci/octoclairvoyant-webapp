@@ -6,6 +6,7 @@ const DefaultSEO: DefaultSeoProps = {
 	titleTemplate: `%s | ${SITE_TITLE}`,
 	description: FULL_DESCRIPTION,
 	defaultTitle: `${SITE_TITLE}: ${BRIEF_DESCRIPTION}`,
+	themeColor: '#D946EF',
 	openGraph: {
 		type: 'website',
 		url: 'https://octoclairvoyant.vercel.app/',
